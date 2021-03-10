@@ -179,7 +179,7 @@ catch(err) {
     console.error(err);
 }
 try {
-    document.getElementsByClassName('gb_7')[0].remove()
+    document.getElementsByClassName('gb_7')[0].remove(); // google translate
 }
 catch(err) {
     console.error(err);
